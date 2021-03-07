@@ -24,6 +24,7 @@ namespace jeu_de_maths
                 // o => 1 ou 2
                 //      1 -> addition
                 //      2 -> multiplication
+                //      3 -> soustraction
 
                 switch (o)
                 {
@@ -61,21 +62,11 @@ namespace jeu_de_maths
                     Console.WriteLine("ERREUR : Vous devez rentrer un nombre");
                 }
             }
-            // reponseInt
+            
         }
 
         static void Main(string[] args)
         {
-            // 5 + 2 = 7
-            // Bonne réponse / mauvaise réponse
-            // a + b 
-            // min et max
-
-            // 1 - définir MIN ET MAX
-            // 2 - nombres aléatoires pour a et b
-            // 3 - calculer a+b == reponseInt
-            // 4 - return true/false
-            // 5 - true -> bonne reponse / mauvaise reponse
 
             const int NOMBRE_MIN = 1;
             const int NOMBRE_MAX = 10;
@@ -103,19 +94,11 @@ namespace jeu_de_maths
 
             Console.WriteLine("Nombre de points : " + points + "/" + NB_QUESTIONS);
 
-            // 100% bonnes réponses => Excellent
-            // 0 -> Révisez vos maths
-
-            // 10 -> 5 ( 10/2 = 5)
-            // 5/2 = 2,5 -> 2
             int moyenne = NB_QUESTIONS / 2;
-
-            // > moyenne -> pas mal
-            // <= moyenne -> Peut mieux faire
 
             if (points == NB_QUESTIONS)
             {
-                Console.WriteLine("Excellent !");
+                Console.WriteLine("Excellent ! 100% de bonnes réponses !!");
             }
             else if (points == 0)
             {

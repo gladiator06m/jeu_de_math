@@ -11,3 +11,16 @@ C:\Users\Jonathan\Desktop\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\netcore
 C:\Users\Jonathan\Desktop\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.dll
 C:\Users\Jonathan\Desktop\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.pdb
 C:\Users\Jonathan\Desktop\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.genruntimeconfig.cache
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\bin\Debug\netcoreapp3.1\jeu_de_maths.exe
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\bin\Debug\netcoreapp3.1\jeu_de_maths.deps.json
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\bin\Debug\netcoreapp3.1\jeu_de_maths.runtimeconfig.json
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\bin\Debug\netcoreapp3.1\jeu_de_maths.runtimeconfig.dev.json
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\bin\Debug\netcoreapp3.1\jeu_de_maths.dll
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\bin\Debug\netcoreapp3.1\jeu_de_maths.pdb
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.csprojAssemblyReference.cache
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.AssemblyInfoInputs.cache
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.AssemblyInfo.cs
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.csproj.CoreCompileInputs.cache
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.dll
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.pdb
+C:\Users\Naïm\Documents\GitHub\jeu_de_math\jeu_de_maths\obj\Debug\netcoreapp3.1\jeu_de_maths.genruntimeconfig.cache
