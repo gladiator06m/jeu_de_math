@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Naïm\\source\\repos\\jeu_de_math\\jeu_de_math\\jeu_de_math.csproj",
+      "projectUniqueName": "C:\\Users\\Naïm\\Documents\\GitHub\\jeu_de_math\\jeu_de_math\\jeu_de_math.csproj",
       "projectName": "jeu_de_math",
-      "projectPath": "C:\\Users\\Naïm\\source\\repos\\jeu_de_math\\jeu_de_math\\jeu_de_math.csproj",
+      "projectPath": "C:\\Users\\Naïm\\Documents\\GitHub\\jeu_de_math\\jeu_de_math\\jeu_de_math.csproj",
       "packagesPath": "C:\\Users\\Naïm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Naïm\\source\\repos\\jeu_de_math\\jeu_de_math\\obj\\",
+      "outputPath": "C:\\Users\\Naïm\\Documents\\GitHub\\jeu_de_math\\jeu_de_math\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
